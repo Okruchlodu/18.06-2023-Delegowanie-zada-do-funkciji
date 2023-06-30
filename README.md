@@ -1,0 +1,1 @@
+# 18.06-2023-Delegowanie-zada-do-funkciji
